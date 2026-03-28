@@ -20,7 +20,7 @@
   <table>
     <tr>
       <td>
-        <b>Note:</b> I'm always open to collaborating on interesting <b>Data Science</b> or <b>Web Dev</b> projects!
+        <b>Note:</b> I'm always open to collaborating on interesting <b>Data Science</b> or <b>Data Analysis</b> projects!
       </td>
     </tr>
   </table>
