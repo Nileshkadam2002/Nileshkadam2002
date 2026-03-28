@@ -1,22 +1,31 @@
 <div align="center">
   <h1>Hi, I'm Nilesh Kadam 👋</h1>
-  <p><strong>Data Scientist | Software Developer | Machine Learning Enthusiast</strong></p>
+  <p><strong>Data Analyst | Software Developer| Data Scientist</strong></p>
 
   <p>
-    I am a passionate data professional dedicated to building intelligent systems and 
-    extracting meaningful insights from complex datasets. 
-    With a strong foundation in <b>Python</b> and <b>Data Engineering</b>, 
-    I bridge the gap between raw data and impactful decisions.
+    Transforming raw data into meaningful stories through code. I thrive at the intersection of logic and creativity, 
+    using tools like <b>Python</b>, <b>MySQL</b>,<b>Power BI</b> and <b>PostgreSQL</b> to build scalable solutions.
   </p>
 
   <p>
-    🔭 <b>Currently working on:</b> Advanced Predictive Analytics <br>
+    I specialize in data visualization and technical analysis using <b>SQL</b>, <b>Power BI</b>, and <b>Excel</b> 
+    to turn complex datasets into actionable business insights.
+  </p>
+
+  <p>
     🌱 <b>Learning:</b> Deep Learning & Cloud Infrastructure <br>
-    💬 <b>Ask me about:</b> Python, SQL, or ML Model Deployment
+    💬 <b>Ask me about:</b> Python, SQL, Power BI, or ML Models
   </p>
-</div>
 
-<hr />
+  <table>
+    <tr>
+      <td>
+        <b>Note:</b> I'm always open to collaborating on interesting <b>Data Science</b> or <b>Web Dev</b> projects!
+      </td>
+    </tr>
+  </table>
+
+</div>
 
 
 ## 🌐 Socials:
