@@ -1,3 +1,23 @@
+<div align="center">
+  <h1>Hi, I'm Nilesh Kadam 👋</h1>
+  <p><strong>Data Scientist | Software Developer | Machine Learning Enthusiast</strong></p>
+
+  <p>
+    I am a passionate data professional dedicated to building intelligent systems and 
+    extracting meaningful insights from complex datasets. 
+    With a strong foundation in <b>Python</b> and <b>Data Engineering</b>, 
+    I bridge the gap between raw data and impactful decisions.
+  </p>
+
+  <p>
+    🔭 <b>Currently working on:</b> Advanced Predictive Analytics <br>
+    🌱 <b>Learning:</b> Deep Learning & Cloud Infrastructure <br>
+    💬 <b>Ask me about:</b> Python, SQL, or ML Model Deployment
+  </p>
+</div>
+
+<hr />
+
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nk2713706@gmail.com) 
